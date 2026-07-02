@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year CSE student and software developer with skills in Java, Python, and Javascript. I develop backend systems using Spring Boot and full-stack apps with React, and explore AI/ML using tools like TensorFlow, scikit-learn, and OpenCV.<br><br>I enjoy solving real-world problems and collaborating on impactful projects.<br><br>Languages: Java, Python, JavaScript<br>Backend: Spring Boot, REST APIs<br>Frontend: React, HTML, CSS<br>Databases: MongoDB, PostgreSQL, MySQL<br>AI/ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, OpenCV<br>DevOps & Cloud: Docker, AWS, Git, GitHub
+I’m a Third-year CSE student and software developer with skills in Java, Python, and Javascript. I develop backend systems using Spring Boot and full-stack apps with React, and explore AI/ML using tools like TensorFlow, scikit-learn, and OpenCV.<br><br>I enjoy solving real-world problems and collaborating on impactful projects.<br><br>Languages: Java, Python, JavaScript<br>Backend: Spring Boot, REST APIs<br>Frontend: React, HTML, CSS<br>Databases: MongoDB, PostgreSQL, MySQL<br>AI/ML: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, OpenCV<br>DevOps & Cloud: Docker, AWS, Git, GitHub
 
 
 ## 🌐 Socials:
